@@ -1,0 +1,6 @@
+{
+  "name": "Damron Suites - Mzuzu",
+  "description": "Refined hospitality & luxury guesthouse in Mzuzu, Northern Malawi with instant room inspection, WhatsApp booking inquiries (+265887444100), and dining location integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
